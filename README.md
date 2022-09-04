@@ -1,2 +1,1 @@
-# Cult-of-the-Lamb-awp
-Thunder store tweaking
+To install use r2modman or place the skin in the folder where skins go 

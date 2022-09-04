@@ -1,0 +1,11 @@
+{
+  "name": "Cotl_AWP",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "Replaces the awps skin with a Cult of the Lamb themed skin.",
+  "dependencies": [
+"BepInEx-BepInExPack_H3VR-5.4.1700",
+"bbepis-XUnity_ResourceRedirector-4.16.3",
+"denikson-H3VR_Sideloader-0.3.7"
+    ]
+}
